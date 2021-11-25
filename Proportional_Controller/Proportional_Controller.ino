@@ -17,9 +17,9 @@
 #define _DIST_ALPHA 0.3  // ema 필터에 적용할 알파값
 
 // Servo range
-#define _DUTY_MIN 1100  // 서보의 최소 각도값
+#define _DUTY_MIN 500  // 서보의 최소 각도값
 #define _DUTY_NEU 1300  // 서보의 중간 각도값
-#define _DUTY_MAX 1500  // 서보의 최대 각도값
+#define _DUTY_MAX 2000  // 서보의 최대 각도값
 
 // Servo speed control
 #define _SERVO_ANGLE 30  // 서보 각도 설정
